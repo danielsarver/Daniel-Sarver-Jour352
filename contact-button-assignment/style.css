@@ -1,0 +1,38 @@
+/*
+MY COLOR PALETTE
+Lapis Lazuli - #33658A
+Carolina blue - #86BBD8
+Charcoal - #2F4858
+Celadon - #A6D3A0
+Tea green - #D1FFD7
+*/
+
+body {
+    background-color: #86BBD8;
+    text-align: center;
+}
+
+button {
+    background-color: #A6D3A0;
+    color: #2F4858;
+    font-family: "Dosis", sans-serif;
+    font-weight:300;
+    width:200px;
+    padding:20px;
+    margin-top:50px;
+    border:none;
+    
+}
+
+button:hover {
+    background-color:#D1FFD7; 
+}
+
+h1 {
+    font-family: "Merriweather Sans", sans-serif;
+}
+
+h2 {
+     font-family: "Merriweather Sans", sans-serif;
+}
+
